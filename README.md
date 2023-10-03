@@ -24,5 +24,5 @@ WHEN the game is over
 THEN I can save my initials and score
 
 ## Screenshots    
-![Alt text](<Screenshot 2023-10-02 225323.jpg>)
-![Alt text](<Screenshot 2023-10-02 225409.jpg>)
+![Alt text](<screenshot 1 .png>)
+![Alt text](<screenshot 2 .png>)
